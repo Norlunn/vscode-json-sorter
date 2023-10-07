@@ -3,7 +3,7 @@
   "displayName": "JSON Sorter",
   "description": "",
   "version": "0.1.0",
-  "publisher": "Martin Norlunn",
+  "publisher": "MartinNorlunn",
   "repository": "https://github.com/Norlunn/vscode-json-sorter",
   "engines": {
     "vscode": "^1.82.0"
