@@ -1,10 +1,10 @@
 {
   "name": "a-json-sorter",
   "displayName": "A JSON Sorter",
-  "description": "",
-  "version": "0.1.0",
+  "description": "A JSON Sorter extension for Visual Studio Code that allows for manipulation of JSON lists.",
+  "version": "0.2.0",
   "publisher": "MartinNorlunn",
-  "repository": "https://github.com/Norlunn/vscode-a-json-sorter",
+  "repository": "https://github.com/Norlunn/vscode-json-sorter",
   "engines": {
     "vscode": "^1.82.0"
   },

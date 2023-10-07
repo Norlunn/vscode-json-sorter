@@ -1,6 +1,6 @@
-# a-json-sorter
+# A JSON Sorter
 
-a-json-sorter extension for Visual Studio Code that allows for manipulation of JSON lists.
+A JSON Sorter extension for Visual Studio Code that allows for manipulation of JSON lists.
 
 ## Features
 
