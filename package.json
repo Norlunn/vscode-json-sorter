@@ -1,10 +1,10 @@
 {
-  "name": "json-sorter",
+  "name": "a-json-sorter",
   "displayName": "JSON Sorter",
   "description": "",
   "version": "0.1.0",
   "publisher": "MartinNorlunn",
-  "repository": "https://github.com/Norlunn/vscode-json-sorter",
+  "repository": "https://github.com/Norlunn/vscode-a-json-sorter",
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -16,8 +16,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "json-sorter.randomize",
-        "title": "JSON Sorter: Randomize list"
+        "command": "a-json-sorter.randomize",
+        "title": "A JSON Sorter: Randomize list"
       }
     ]
   },

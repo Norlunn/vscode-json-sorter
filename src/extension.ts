@@ -5,7 +5,7 @@ import * as jsonSorter from './jsonSorter';
 // Your extension is activated the very first time the command is executed
 export function activate(context: vscode.ExtensionContext) {
 	const commands = [
-		vscode.commands.registerCommand('json-sorter.randomize', jsonSorter.randomize)
+		vscode.commands.registerCommand('a-json-sorter.randomize', jsonSorter.randomize)
 	]
 
 	commands.forEach(command => context.subscriptions.push(command));

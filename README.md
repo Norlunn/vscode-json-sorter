@@ -1,6 +1,6 @@
-# json-sorter
+# a-json-sorter
 
-Json-Sorter extension allows for manipulation of JSON lists.
+a-json-sorter extension allows for manipulation of JSON lists.
 
 ## Features
 
@@ -24,4 +24,4 @@ The list must be at the root of the JSON in the currently open file, like this:
 ]
 ```
 
-To randomize the list, press **CTRL + SHIFT + P** and choose **JSON Sorter: Randomize list**.
+To randomize the list, press **CTRL + SHIFT + P** and choose **A JSON Sorter: Randomize list**.
