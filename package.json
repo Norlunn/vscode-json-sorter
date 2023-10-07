@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.1.0",
   "publisher": "Martin Norlunn",
+  "repository": "https://github.com/Norlunn/vscode-json-sorter",
   "engines": {
     "vscode": "^1.82.0"
   },
